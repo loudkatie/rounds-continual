@@ -162,7 +162,7 @@ async def seed_demo():
     """Pre-seeds the dashboard with a realistic 10-day patient journey."""
     global agent_state
     agent_state = {
-        "patient_name": "David",
+        "patient_name": "Don",
         "caregiver_name": "Katie",
         "diagnosis": "Double lung transplant",
         "sessions_analyzed": 10,
