@@ -9,7 +9,7 @@ Hackathon: Continual Learning Agents, Creators Corner SF.
 ## SPONSOR API KEYS
 1. You.com ✅ — ydc-sk-01650be461fa0350-9LxZpaXYop5vQjOCKv5G05C8MK74eGqK-12dc9e01
 2. Composio ✅ — ak_End3NAEXI8zpSPQ5Sxi3
-3. Render — PENDING credits (Katie submitted form)
+3. Render ✅ — https://rounds-ai-jvse.onrender.com (deploying now)
 
 ## COMPLETED — iOS FILES
 Path: /Users/katiemacair-2025/04_Developer/Rounds/Rounds/
