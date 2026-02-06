@@ -11,7 +11,10 @@ from datetime import datetime
 import uvicorn
 
 app = FastAPI(title="Rounds AI — Continual Learning Agent", version="1.0.0")
-templates = Jinja2Templates(directory="templates")
+import pathlib
+
+_BASE_DIR = pathlib.Path(__file__).resolve().parent.parent
+templates = Jinja2Templates(directory=str(_BASE_DIR / "templates"))
 
 # ─────────────────────────────────────────────
 # IN-MEMORY STORE
